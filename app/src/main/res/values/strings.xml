@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BanyanInfotechTask</string>
+    <string name="wifi_connection">Wifi Connection</string>
+    <string name="enter_ssid">Enter SSID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="connect">Connect</string>
+</resources>
