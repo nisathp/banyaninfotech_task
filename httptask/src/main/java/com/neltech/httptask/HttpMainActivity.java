@@ -40,6 +40,7 @@ public class HttpMainActivity extends AppCompatActivity {
             doTheDownload();
         });
         setContentView(binding.getRoot());
+
     }
 
     public void doTheDownload() {
